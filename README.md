@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Golang & C# proyects
 
 ### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno5200&layout=compact)](https://github.com/bruno5200/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno5200&layout=compact&theme=github_dark&show_icons=true)](https://github.com/bruno5200/github-readme-stats)
 
 ### Stats
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno5200&show_icons=true&theme=github_dark)
