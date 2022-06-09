@@ -1,3 +1,4 @@
+# Github
 - 👋 Hi, I’m @Bruno Gutierrez Rodriguez
 - 👀 I’m interested in Golang, C#, F#, Kotlin, Rust and Python
 - 🌱 I’m currently learning Rust
@@ -12,9 +13,8 @@
 	<a href="https://github.com/bruno5200"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"></a>
 	<a href="https://github.com/bruno5200"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedora"></a>
 	<a href="https://github.com/bruno5200"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcloud"></a>
+	<a href="https://github.com/bruno5200"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis"></a>
 </p><br>
-
-### 
 
 ### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno5200&layout=compact&theme=github_dark&show_icons=true)](https://github.com/bruno5200/github-readme-stats)
