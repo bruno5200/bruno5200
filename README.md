@@ -2,7 +2,7 @@
 - 👀 I’m interested in Golang, C#, F#, Kotlin, Rust and Python
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Golang & C# proyects
-- 
+
 ### Recent
 <p align="center">
 	<a href="https://github.com/bruno5200"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang"></a>
