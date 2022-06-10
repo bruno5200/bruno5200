@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno5200&layout=compact&theme=github_dark&show_icons=true)](https://github.com/bruno5200/github-readme-stats)
 
 ### Stats
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno5200&count_private=true&show_icons=true&theme=github_dark)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno5200&count_private=true&hide=prs&show_icons=true&theme=github_dark)
 
 ### IDE
 
