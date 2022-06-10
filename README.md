@@ -1,5 +1,5 @@
 # Github
-- 👋 Hi, I’m @Bruno Gutierrez Rodriguez
+- 👋 Hi, I’m Bruno Gutierrez Rodriguez
 - 👀 I’m interested in Golang, C#, F#, Kotlin, Rust and Python
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Golang & C# proyects
