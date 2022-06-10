@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href="https://github.com/bruno5200">
-<img src="https://dev.to/envoy_/150-badges-for-github-pnk#database" alt="vscode">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">
 </a>
 <a href="https://github.com/bruno5200">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual_studio">
