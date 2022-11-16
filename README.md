@@ -1,7 +1,7 @@
 # Github
 - 👋 Hi, I’m Bruno Gutierrez Rodriguez
 - 👀 I’m interested in Golang, C#, F#, Kotlin, Rust and Python
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Github/Workflows
 - 💞️ I’m looking to collaborate on Golang & C# proyects
 
 ### Recent
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google_cloud">
 </p><br>
 
-### DataBase
+### Data Base
 <p align="center">
 </a>
 <a href="https://github.com/bruno5200">
@@ -74,7 +74,7 @@
 </a>
 </p><br>
 
-#### linter
+#### Linter
 <p align="center">
 <a href="https://github.com/bruno5200">
 <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
