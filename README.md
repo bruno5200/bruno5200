@@ -6,10 +6,10 @@
 
 ### Recent
 <p align="center">
-<a href="https://github.com/bruno5200">
+<a href="[https://github.com/bruno5200/#Go](https://github.com/bruno5200?tab=repositories&q=&type=&language=go)">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang">
 </a>
-<a href="https://github.com/bruno5200">
+<a href="[https://github.com/bruno5200/#Csharp](https://github.com/bruno5200?tab=repositories&q=&type=&language=c%23)">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt =".net">
 </a>
 <a href="https://github.com/bruno5200">
@@ -24,14 +24,27 @@
 <a href="https://github.com/bruno5200">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python">
 </a>
-<a href="https://github.com/bruno5200">
+<a href="[https://github.com/bruno5200/#fedora](https://github.com/bruno5200/fedora-WSL)">
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedora">
 </a>
 <a href="https://github.com/bruno5200">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google_cloud">
+</p><br>
+
+### DataBase
+<p align="center">
 </a>
 <a href="https://github.com/bruno5200">
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis">
+</a>
+ <a href="[https://github.com/bruno5200/#postgresql](https://github.com/bruno5200?tab=repositories&q=&type=&language=plpgsql)">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
+</a>
+<a href="https://github.com/bruno5200">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
+</a>
+<a href="https://github.com/bruno5200">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
 </a>
 </p><br>
 
@@ -49,6 +62,15 @@
 </a>
 <a href="https://github.com/bruno5200">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual_studio">
+</a>
+<a href="https://github.com/bruno5200">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intelij">
+</a>
+<a href="https://github.com/bruno5200">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android_studio">
+</a>
+<a href="https://github.com/bruno5200">
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="xcode">
 </a>
 </p><br>
 
