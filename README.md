@@ -1,6 +1,6 @@
 # Github
 - 👋 Hi, I’m Bruno Gutierrez Rodriguez
-- 👀 I’m interested in Golang, C#, F#, Kotlin, Rust and Python
+- 👀 I’m interested in Golang, C#, F#, Kotlin, Rust, TypeScript and Python
 - 🌱 I’m currently learning Github/Workflows
 - 💞️ I’m looking to collaborate on Golang & C# proyects
 
@@ -29,6 +29,10 @@
 </a>
 <a href="https://github.com/bruno5200">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google_cloud">
+</a>
+<a href="https://github.com/bruno5200">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
 </p><br>
 
 ### Data Base
@@ -37,7 +41,7 @@
 <a href="https://github.com/bruno5200">
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis">
 </a>
- <a href="[https://github.com/bruno5200/#postgresql](https://github.com/bruno5200?tab=repositories&q=&type=&language=plpgsql)">
+<a href="[https://github.com/bruno5200/#postgresql](https://github.com/bruno5200?tab=repositories&q=&type=&language=plpgsql)">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
 </a>
 <a href="https://github.com/bruno5200">
@@ -54,7 +58,7 @@
 ### Stats
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno5200&count_private=true&hide=prs&show_icons=true&theme=github_dark)
 
-### IDE
+### IDE/EDITOR
 
 <p align="center">
 <a href="https://github.com/bruno5200">
@@ -78,6 +82,15 @@
 <p align="center">
 <a href="https://github.com/bruno5200">
 <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+</a>
+<a href="https://github.com/bruno5200">
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+</a>
+<a href="https://github.com/bruno5200">
+<img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white">
+</a>
+<a href="https://github.com/bruno5200">
+<img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white">
 </a>
 </p><br>
 
